@@ -1,6 +1,6 @@
 ![Purple Gradient Modern Gaming Channel Youtube Banner-final](https://github.com/Akhyata/Akhyata/assets/143725909/50299608-ea18-4820-a0ce-b7c3e9a87b08)
 
-<h1 align="center">Hi 👋, I'm Akhyata Moharana</h1>
+<h1 align="center">Hello! 👋, I'm Akhyata Moharana</h1>
 <h2 align="center" alt="coding" width="900" src="https://besthqwallpapers.com/Uploads/8-1-2021/150742/thumb2-github-violet-logo-4k-violet-brickwall-github-logo-social-networks.jpg">
 <h3 align="center">A passionate Data analyst student on a journey to unlock the hidden treasures within datasets.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
